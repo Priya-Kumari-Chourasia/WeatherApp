@@ -1,28 +1,28 @@
 import styled from "styled-components";
 
 export const WeatherInfoIcons = {
-  sunset: "/WeatherApp/public/icons/temp.svg",
-  sunrise: "/WeatherApp/public/icons/temp.svg",
-  humidity: "/WeatherApp/public/icons/humidity.svg",
-  wind: "/WeatherApp/public/icons/wind.svg",
-  pressure: "/WeatherApp/public/icons/pressure.svg",
+  sunset: "./WeatherApp/public/icons/temp.svg",
+  sunrise: "./WeatherApp/public/icons/temp.svg",
+  humidity: "./WeatherApp/public/icons/humidity.svg",
+  wind: "./WeatherApp/public/icons/wind.svg",
+  pressure: "./WeatherApp/public/icons/pressure.svg",
 };
 
 export const WeatherIcons = {
-  "01d": "/WeatherApp/public/icons/cloudy-night.svg",
-  "01n": "/WeatherApp/public/icons/night.svg",
-  "02d": "/WeatherApp/public/icons/day.svg",
-  "02n": "/WeatherApp/public/icons/cloudy-night.svg",
-  "03d": "/WeatherApp/public/icons/cloudy.svg",
-  "03n": "/WeatherApp/public/icons/cloudy.svg",
-  "04d": "/WeatherApp/public/icons/perfect-day.svg",
-  "04n": "/WeatherApp/public/icons/cloudy-night.svg",
-  "09d": "/WeatherApp/public/icons/rain.svg",
-  "09n": "/WeatherApp/public/icons/rain-night.svg",
-  "10d": "/WeatherApp/public/icons/rain.svg",
-  "10n": "/WeatherApp/public/icons/rain-night.svg",
-  "11d": "/WeatherApp/public/icons/storm.svg",
-  "11n": "/WeatherApp/public/icons/storm.svg",
+  "01d": "./WeatherApp/public/icons/cloudy-night.svg",
+  "01n": "./WeatherApp/public/icons/night.svg",
+  "02d": "./WeatherApp/public/icons/day.svg",
+  "02n": "./WeatherApp/public/icons/cloudy-night.svg",
+  "03d": "./WeatherApp/public/icons/cloudy.svg",
+  "03n": "./WeatherApp/public/icons/cloudy.svg",
+  "04d": "./WeatherApp/public/icons/perfect-day.svg",
+  "04n": "./WeatherApp/public/icons/cloudy-night.svg",
+  "09d": "./WeatherApp/public/icons/rain.svg",
+  "09n": "./WeatherApp/public/icons/rain-night.svg",
+  "10d": "./WeatherApp/public/icons/rain.svg",
+  "10n": "./WeatherApp/public/icons/rain-night.svg",
+  "11d": "./WeatherApp/public/icons/storm.svg",
+  "11n": "./WeatherApp/public/icons/storm.svg",
 };
 
 const WeatherCondition = styled.div`
