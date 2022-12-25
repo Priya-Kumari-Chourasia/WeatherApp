@@ -1,28 +1,28 @@
 import styled from "styled-components";
 
 export const WeatherInfoIcons = {
-  sunset: "/weather/icons/temp.svg",
-  sunrise: "/weather/icons/temp.svg",
-  humidity: "/weather/icons/humidity.svg",
-  wind: "/weather/icons/wind.svg",
-  pressure: "/weather/icons/pressure.svg",
+  sunset: "/WeatherApp/blob/main/public/icons/temp.svg",
+  sunrise: "/WeatherApp/blob/main/public/icons/temp.svg",
+  humidity: "/WeatherApp/blob/main/public/icons/humidity.svg",
+  wind: "/WeatherApp/blob/main/public/icons/wind.svg",
+  pressure: "/WeatherApp/blob/main/public/icons/pressure.svg",
 };
 
 export const WeatherIcons = {
-  "01d": "/weather/icons/sunny.svg",
-  "01n": "/weather/icons/night.svg",
-  "02d": "/weather/icons/day.svg",
-  "02n": "/weather/icons/cloudy-night.svg",
-  "03d": "/weather/icons/cloudy.svg",
-  "03n": "/weather/icons/cloudy.svg",
-  "04d": "/weather/icons/perfect-day.svg",
-  "04n": "/weather/icons/cloudy-night.svg",
-  "09d": "/weather/icons/rain.svg",
-  "09n": "/weather/icons/rain-night.svg",
-  "10d": "/weather/icons/rain.svg",
-  "10n": "/weather/icons/rain-night.svg",
-  "11d": "/weather/icons/storm.svg",
-  "11n": "/weather/icons/storm.svg",
+  "01d": "/WeatherApp/blob/main/public/icons/sunny.svg",
+  "01n": "/WeatherApp/blob/main/public/icons/night.svg",
+  "02d": "/WeatherApp/blob/main/public/icons/day.svg",
+  "02n": "/WeatherApp/blob/main/public/icons/cloudy-night.svg",
+  "03d": "/WeatherApp/blob/main/public/icons/cloudy.svg",
+  "03n": "/WeatherApp/blob/main/public/icons/cloudy.svg",
+  "04d": "/WeatherApp/blob/main/public/icons/perfect-day.svg",
+  "04n": "/WeatherApp/blob/main/public/icons/cloudy-night.svg",
+  "09d": "/WeatherApp/blob/main/public/icons/rain.svg",
+  "09n": "/WeatherApp/blob/main/public/icons/rain-night.svg",
+  "10d": "/WeatherApp/blob/main/publicr/icons/rain.svg",
+  "10n": "/WeatherApp/blob/main/public/icons/rain-night.svg",
+  "11d": "/WeatherApp/blob/main/public/icons/storm.svg",
+  "11n": "/WeatherApp/blob/main/public/icons/storm.svg",
 };
 
 const WeatherCondition = styled.div`
