@@ -1,28 +1,28 @@
 import styled from "styled-components";
 
 export const WeatherInfoIcons = {
-  sunset: "./WeatherApp/public/icons/temp.svg",
-  sunrise: "./WeatherApp/public/icons/temp.svg",
-  humidity: "./WeatherApp/public/icons/humidity.svg",
-  wind: "./WeatherApp/public/icons/wind.svg",
-  pressure: "./WeatherApp/public/icons/pressure.svg",
+  sunset: "https://raw.githubusercontent.com/Priya-Kumari-Chourasia/WeatherApp/89015c6c7aff9e61fab63b1dedeffd5f99d65dac/public/icons/temp.svg",
+  sunrise: "https://raw.githubusercontent.com/Priya-Kumari-Chourasia/WeatherApp/89015c6c7aff9e61fab63b1dedeffd5f99d65dac/public/icons/temp.svg",
+  humidity: "https://raw.githubusercontent.com/Priya-Kumari-Chourasia/WeatherApp/89015c6c7aff9e61fab63b1dedeffd5f99d65dac/public/icons/humidity.svg",
+  wind: "https://raw.githubusercontent.com/Priya-Kumari-Chourasia/WeatherApp/89015c6c7aff9e61fab63b1dedeffd5f99d65dac/public/icons/wind.svg",
+  pressure: "https://raw.githubusercontent.com/Priya-Kumari-Chourasia/WeatherApp/89015c6c7aff9e61fab63b1dedeffd5f99d65dac/public/icons/pressure.svg",
 };
 
 export const WeatherIcons = {
-  "01d": "./WeatherApp/public/icons/cloudy-night.svg",
-  "01n": "./WeatherApp/public/icons/night.svg",
-  "02d": "./WeatherApp/public/icons/day.svg",
-  "02n": "./WeatherApp/public/icons/cloudy-night.svg",
-  "03d": "./WeatherApp/public/icons/cloudy.svg",
-  "03n": "./WeatherApp/public/icons/cloudy.svg",
-  "04d": "./WeatherApp/public/icons/perfect-day.svg",
-  "04n": "./WeatherApp/public/icons/cloudy-night.svg",
-  "09d": "./WeatherApp/public/icons/rain.svg",
-  "09n": "./WeatherApp/public/icons/rain-night.svg",
-  "10d": "./WeatherApp/public/icons/rain.svg",
-  "10n": "./WeatherApp/public/icons/rain-night.svg",
-  "11d": "./WeatherApp/public/icons/storm.svg",
-  "11n": "./WeatherApp/public/icons/storm.svg",
+  "01d": "https://raw.githubusercontent.com/Priya-Kumari-Chourasia/WeatherApp/89015c6c7aff9e61fab63b1dedeffd5f99d65dac/public/icons/cloudy-night.svg",
+  "01n": "https://raw.githubusercontent.com/Priya-Kumari-Chourasia/WeatherApp/89015c6c7aff9e61fab63b1dedeffd5f99d65dac/public/icons/night.svg",
+  "02d": "https://raw.githubusercontent.com/Priya-Kumari-Chourasia/WeatherApp/89015c6c7aff9e61fab63b1dedeffd5f99d65dac/public/icons/day.svg",
+  "02n": "https://raw.githubusercontent.com/Priya-Kumari-Chourasia/WeatherApp/89015c6c7aff9e61fab63b1dedeffd5f99d65dac/public/icons/cloudy-night.svg",
+  "03d": "https://raw.githubusercontent.com/Priya-Kumari-Chourasia/WeatherApp/89015c6c7aff9e61fab63b1dedeffd5f99d65dac/public/icons/cloudy.svg",
+  "03n": "https://raw.githubusercontent.com/Priya-Kumari-Chourasia/WeatherApp/89015c6c7aff9e61fab63b1dedeffd5f99d65dac/public/icons/cloudy.svg",
+  "04d": "https://raw.githubusercontent.com/Priya-Kumari-Chourasia/WeatherApp/89015c6c7aff9e61fab63b1dedeffd5f99d65dac/public/icons/perfect-day.svg",
+  "04n": "https://raw.githubusercontent.com/Priya-Kumari-Chourasia/WeatherApp/89015c6c7aff9e61fab63b1dedeffd5f99d65dac/public/icons/cloudy-night.svg",
+  "09d": "https://raw.githubusercontent.com/Priya-Kumari-Chourasia/WeatherApp/89015c6c7aff9e61fab63b1dedeffd5f99d65dac/public/icons/rain.svg",
+  "09n": "https://raw.githubusercontent.com/Priya-Kumari-Chourasia/WeatherApp/89015c6c7aff9e61fab63b1dedeffd5f99d65dac/public/icons/rain-night.svg",
+  "10d": "https://raw.githubusercontent.com/Priya-Kumari-Chourasia/WeatherApp/89015c6c7aff9e61fab63b1dedeffd5f99d65dac/public/icons/rain.svg",
+  "10n": "https://raw.githubusercontent.com/Priya-Kumari-Chourasia/WeatherApp/89015c6c7aff9e61fab63b1dedeffd5f99d65dac/public/icons/rain-night.svg",
+  "11d": "https://raw.githubusercontent.com/Priya-Kumari-Chourasia/WeatherApp/89015c6c7aff9e61fab63b1dedeffd5f99d65dac/public/icons/storm.svg",
+  "11n": "https://raw.githubusercontent.com/Priya-Kumari-Chourasia/WeatherApp/89015c6c7aff9e61fab63b1dedeffd5f99d65dac/public/icons/storm.svg",
 };
 
 const WeatherCondition = styled.div`
