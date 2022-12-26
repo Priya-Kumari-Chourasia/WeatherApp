@@ -1,21 +1,21 @@
 import styled from "styled-components";
 
 export const WeatherInfoIcons = {
-  sunset: "/WeatherApp/public/icons/temp.svg",
-  sunrise: "/WeatherApp/public/icons/temp.svg",
-  humidity: "/WeatherApp/public/icons/humidity.svg",
-  wind: "/WeatherApp/public/icons/wind.svg",
-  pressure: "/WeatherApp/public/icons/pressure.svg",
+  sunset: "/weather/public/icons/temp.svg",
+  sunrise: "/weather/public/icons/temp.svg",
+  humidity: "/weather/public/icons/humidity.svg",
+  wind: "/weather/public/icons/wind.svg",
+  pressure: "/weather/public/icons/pressure.svg",
 };
 
 export const WeatherIcons = {
-  "01d": "/WeatherApp/public/icons/cloudy-night.svg",
-  "01n": "/WeatherApp/public/icons/night.svg",
-  "02d": "/WeatherApp/public/icons/day.svg",
-  "02n": "/WeatherApp/public/icons/cloudy-night.svg",
-  "03d": "/WeatherApp/public/icons/cloudy.svg",
-  "03n": "/WeatherApp/public/icons/cloudy.svg",
-  "04d": "/WeatherApp/public/icons/perfect-day.svg",
+  "01d": "/weather/public/icons/cloudy-night.svg",
+  "01n": "/weather/public/icons/night.svg",
+  "02d": "/weather/public/icons/day.svg",
+  "02n": "/weather/public/icons/cloudy-night.svg",
+  "03d": "/weather/public/icons/cloudy.svg",
+  "03n": "/weather/public/icons/cloudy.svg",
+  "04d": "/weather/public/icons/perfect-day.svg",
   "04n": "/WeatherApp/public/icons/cloudy-night.svg",
   "09d": "/WeatherApp/public/icons/rain.svg",
   "09n": "/WeatherApp/public/icons/rain-night.svg",
