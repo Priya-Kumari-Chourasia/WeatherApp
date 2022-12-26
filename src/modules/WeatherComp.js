@@ -1,11 +1,11 @@
 import styled from "styled-components";
 
 export const WeatherInfoIcons = {
-  sunset: "/weather/public/icons/temp.svg",
-  sunrise: "/weather/public/icons/temp.svg",
-  humidity: "/weather/public/icons/humidity.svg",
-  wind: "/weather/public/icons/wind.svg",
-  pressure: "/weather/public/icons/pressure.svg",
+  sunset: "/weather/icons/temp.svg",
+  sunrise: "/weather/icons/temp.svg",
+  humidity: "/weather/icons/humidity.svg",
+  wind: "/weather/icons/wind.svg",
+  pressure: "/weather/icons/pressure.svg",
 };
 
 export const WeatherIcons = {
